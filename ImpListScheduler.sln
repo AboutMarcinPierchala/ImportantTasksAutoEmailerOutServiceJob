@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImpListScheduler", "ImpListScheduler.csproj", "{027BAFDF-FDB0-47E4-A545-2959134F660A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027BAFDF-FDB0-47E4-A545-2959134F660A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027BAFDF-FDB0-47E4-A545-2959134F660A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027BAFDF-FDB0-47E4-A545-2959134F660A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027BAFDF-FDB0-47E4-A545-2959134F660A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76536D90-7190-4EA2-AA80-E1D4F25EFCDF}
+	EndGlobalSection
+EndGlobal
